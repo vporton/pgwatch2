@@ -4,3 +4,4 @@ psycopg2-binary
 decorator
 cryptography
 requests
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
